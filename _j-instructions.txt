@@ -1,0 +1,19 @@
+
+6-05-2019
+This is the User Interface for the 
+commission automation. 
+
+The entire comauto program lives in 
+ninja, which is the API 
+
+I run "$grunt build" then copy and paste the 
+code to our Microsoft Server on .17
+
+
+
+
+
+
+
+
+//

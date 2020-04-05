@@ -1,0 +1,10 @@
+**/node_modules
+.tmp
+.sass-cache
+.idea
+.firebase/hosting.ZGlzdA.cache
+dist
+ref-apps
+dist_temps
+z
+**/bower_components
