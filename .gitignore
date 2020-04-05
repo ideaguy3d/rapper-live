@@ -8,3 +8,4 @@ ref-apps
 dist_temps
 z
 **/bower_components
+**/images

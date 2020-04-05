@@ -24,12 +24,6 @@ body {
     }
 }
 
-md-grid-tile.gray {
-    background-color: rgba(0, 0, 0, 0.54);
-    color: rgb(238, 238, 238);
-    background-image: url(http://three29.julius3d.com/img/mountain-bg1.jpg);
-}
-
 md-grid-tile-footer.dark-bg {
     background-color: rgba(0, 0, 0, 0.6);
 }
@@ -121,21 +115,14 @@ md-input-container.md-icon-float > ng-md-icon {
 }
 
 #j-main-landing-hero.j-landing-hero {
-    background: #fff url(../images/hero.png) no-repeat center;
-    color: #f1f1f1;
+    background: #fff url(../images/rhero.png) no-repeat center;
+    /*color: #f1f1f1;*/
     height: 250px;
     /*background-size: cover;*/
 }
 
-md-content.yc-landing-hero {
-    background: #e4e4e4 no-repeat fixed center;
-    color: #f1f1f1;
-    height: 40vh;
-    background-size: cover;
-}
-
 #j-main-landing-hero.j-landing-hero .j-landing-hero-text {
-    text-align: center;
+    /*text-align: center;*/
     text-shadow: #000000;
 }
 
